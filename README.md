@@ -82,5 +82,4 @@ This dashboard serves multiple business functions:
 
 ---
 
-## Repository Structure
 
